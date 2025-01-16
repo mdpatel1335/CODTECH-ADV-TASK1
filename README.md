@@ -53,14 +53,14 @@ hashlib, os, and time are part of the standard Python library, so no additional 
 
 You can clone this repository or simply download the script file to your local system.
 
-    git clone https://github.com/yourusername/file-integrity-checker.git
-    cd file-integrity-checker
+    git clone https://github.com/mdpatel1335/CODTECH-ADV-TASK1.git
+    cd CODTECH-ADV-TASK1
 
 - Run the Script:
 
 Make sure you have Python 3.x installed on your system. Then, run the Python script using the following command:
 
-    python file_integrity_checker.py
+    python task1.py
 
 - Input the File to Monitor:
 
